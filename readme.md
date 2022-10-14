@@ -12,6 +12,22 @@
 06 - Геттеры и сеттеры
 07 - Принципы ООП
 
+## Задачи
+1.1 Классы и объекты
+    1. Goods
+    2. Car
+    3. Notes
+    4. Dictionary
+    5. TravelBlog
+    6. Figure
+    7. Person
+1.2 Методы классов. Параметр self
+    1. MediaPlayer
+    2. Graph
+    3. StreamReader
+    4. DataBase
+    5. Translator
+
 ## Примеры программ
 
 ### на tkinter
